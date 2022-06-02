@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701627849990",
+    "firebase_url": "https://testing-aaf35-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testing-aaf35",
+    "storage_bucket": "testing-aaf35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701627849990:android:d1fde59a75e0eccb011287",
+        "android_client_info": {
+          "package_name": "academy.learnprogramming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701627849990-6rla121ft4uu9vmrju1je00qli7lao62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD7UYzAaA1-4gBhlsLqJS0luPv8LhPSls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701627849990-6rla121ft4uu9vmrju1je00qli7lao62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
